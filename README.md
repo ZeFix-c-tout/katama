@@ -1,3 +1,2 @@
 # katama
-
-Katama software can help you in task, with it you can see quickly what screen is connected and on what profile profile your login
+Le logiciel Katama vous aide dans vos tâches : il permet d’identifier rapidement quel écran est connecté et sur quel profil votre session est ouverte.
